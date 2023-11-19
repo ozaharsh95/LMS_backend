@@ -26,7 +26,7 @@
 [API_DOCUMENTATION](https://documenter.getpostman.com/view/30344212/2s9YJhvyvi)
 
 ## Docker Image :
-[Image_link](https://hub.docker.com/r/harshoza950/backend_submission10a)
++ [Image_link](https://hub.docker.com/r/harshoza950/backend_submission10a)
 
 + Docker Pull Command :
 ```docker
