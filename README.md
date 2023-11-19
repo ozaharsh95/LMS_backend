@@ -29,7 +29,7 @@
 [Image_link](https://hub.docker.com/r/harshoza950/backend_submission10a)
 
 + Docker Pull Command :
-  `docker pull harshoza950/backend_submission10a`
+  + `docker pull harshoza950/backend_submission10a`
 
 ## Prerequisites
 
